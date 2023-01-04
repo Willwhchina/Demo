@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>法律检索个人网站</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    </div>
+    <div style="
+    font-family:'楷体';
+    text-align: center;
+    ">
+    <h1>hello world!</h1>
+    <p></p>
+    <p></p>
+    <p></p>
+    </div>
+    <div></div>
+    <div></div>
+  </body>
+</html>
